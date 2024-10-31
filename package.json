@@ -1,0 +1,30 @@
+{
+  "name": "evaluation-productivite-diwjs17",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-session": "^1.17.2",
+    "jquery": "^3.7.1",
+    "jsdoc": "^4.0.4",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^8.57.1",
+    "globals": "^15.11.0",
+    "jest": "^27.5.1",
+    "prettier": "3.3.3"
+  }
+}
